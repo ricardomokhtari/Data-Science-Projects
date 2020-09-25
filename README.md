@@ -1,6 +1,6 @@
 # Data-Science-Projects
 
-## IMDB-5000 Dataset
+## 1) IMDB-5000 Dataset
 
 * This is a classification task in which we build and train a model to classify if a movie is terrible, bad, good or excellent based on many inputs.
 
