@@ -16,7 +16,7 @@ ___
 
 ## 2) Mall Customer Clustering
 
-
+<img src="https://github.com/ricardomokhtari/Data-Science-Projects/blob/master/images/k-means.png">
 
 
 ___
