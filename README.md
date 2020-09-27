@@ -10,7 +10,7 @@ Collections of Kaggle datasets that I've analysed using different techniques. In
 
 * The best performaing model was the random forest regression model, with an average accuracy of 67%.
 
-![accuracies](https://github.com/ricardomokhtari/Data-Science-Projects/images/imdb-accuracy.png)
+![accuracies](https://github.com/ricardomokhtari/Data-Science-Projects/blob/master/images/imdb-accuracy.png)
 
 ___
 
