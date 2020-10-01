@@ -16,6 +16,12 @@ ___
 
 ## 2) Mall Customer Clustering
 
+* In this task, we want to find the best way to split up the shoppers at a mall into distinct groups, based on their age, income and spending behaviour
+
+* We found that the best way to divide up the customers is by income and spending behaviour, identifying 5 distinct clusters
+
+* We can use this information to understand the mall shoppers better and to drive research into what kind of offers each group would be most likely to engage with
+
 <img src="https://github.com/ricardomokhtari/Data-Science-Projects/blob/master/images/k-means.png">
 
 
