@@ -2,7 +2,7 @@
 
 Collections of Kaggle datasets that I've analysed using different techniques. In each folder the analysis.ipynb contains the analysis, the datasets can also be found in each folder.
 
-## 1) IMDB-5000 Dataset
+## 1) Predicting Movie Quality (IMDB-5000 Dataset)
 
 * This is a classification task in which we build and train a model to classify if a movie is terrible, bad, good or excellent based on many inputs.
 
