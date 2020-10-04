@@ -1,12 +1,22 @@
 # Data-Science-Projects
 
-Collections of Kaggle datasets that I've analysed using different techniques. In each folder the analysis.ipynb contains the analysis, the datasets can also be found in each folder.
+A collection of Kaggle datasets that I've analysed using different techniques. Each folder contains the dataset and an analysis.ipynb file which contains the analysis.
 
-## 1) Predicting Movie Quality (IMDB-5000 Dataset)
+## 1) Predicting US House Prices
 
-* This is a classification task in which we build and train a model to classify if a movie is terrible, bad, good or excellent based on many inputs.
+* I built and trained a regression model to predict the sale price (conitnuous value) of US homes based on many input features
 
-* We built and trained several models (Naive Bayes, K-nearest neighbours, support vector machine, random forest regression and neural network) evaluated each via 10-fold cross validation.
+* I compared several different regressors (SVR, Random Forest, DTR, XGBoost) and found that XGBoost achieved the best performance
+
+* My model achieved an Root Mean Squared Error (RMSE) of 0.14, placing my predictions in the top half of all Kaggle submissions for this task
+
+___
+
+## 2) Predicting Movie Quality (IMDB-5000 Dataset)
+
+* This is a classification task in which I built and trained a model to classify if a movie is terrible, bad, good or excellent based on many input features.
+
+* I compared several classification models (Naive Bayes, K-nearest neighbours, support vector machine, random forest regression and neural network) and evaluated each via 10-fold cross validation.
 
 * The best performaing model was the random forest regression model, with an average accuracy of 67%.
 
@@ -14,13 +24,13 @@ Collections of Kaggle datasets that I've analysed using different techniques. In
 
 ___
 
-## 2) Mall Customer Clustering
+## 3) Mall Customer Clustering
 
-* In this task, we want to find the best way to split up the shoppers at a mall into distinct groups, based on their age, income and spending behaviour
+* In this task, I wanted to find the best way to split up the shoppers at a mall into distinct groups, based on their age, income and spending behaviour
 
-* We found that the best way to divide up the customers is by income and spending behaviour, identifying 5 distinct clusters
+* I found that the best way to divide up the customers is by income and spending behaviour, identifying 5 distinct clusters
 
-* We can use this information to understand the mall shoppers better and to drive research into what kind of offers each group would be most likely to engage with
+* This information could be used to understand the mall shoppers better and to drive research into what kind of offers each group would be most likely to engage with
 
 <img src="https://github.com/ricardomokhtari/Data-Science-Projects/blob/master/images/k-means.png">
 
