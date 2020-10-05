@@ -1,5 +1,7 @@
 ## [1) Predicting US House Prices (in progress)](https://github.com/ricardomokhtari/Data-Science-Projects/blob/master/house-prices/analysis.ipynb)
 
+*Link to the data: [https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)*
+
 * I built and trained a regression model to predict the sale price (conitnuous value) of US homes based on many input features
 
 * I compared several different regressors (SVR, Random Forest, DTR, XGBoost) and found that XGBoost achieved the best performance
@@ -12,6 +14,8 @@ ___
 
 ## [2) Predicting Movie Quality (IMDB-5000 Dataset)](https://github.com/ricardomokhtari/Data-Science-Projects/blob/master/IMDB-5000/analysis.ipynb)
 
+*Link to the data: [https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)*
+
 * This is a classification task in which I built and trained a model to classify if a movie is terrible, bad, good or excellent based on many input features.
 
 * I compared several classification models (Naive Bayes, K-nearest neighbours, support vector machine, random forest regression and neural network) and evaluated each via 10-fold cross validation.
@@ -23,6 +27,8 @@ ___
 ___
 
 ## [3) Mall Customer Clustering](https://github.com/ricardomokhtari/Data-Science-Projects/blob/master/mall-customers/analysis.ipynb)
+
+*Link to the data: [https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python)*
 
 * In this task, I wanted to find the best way to split up the shoppers at a mall into distinct groups, based on their age, income and spending behaviour
 
