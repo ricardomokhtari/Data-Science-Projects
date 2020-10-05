@@ -1,4 +1,4 @@
-## 1) Predicting US House Prices
+## 1) [Predicting US House Prices](https://github.com/ricardomokhtari/Data-Science-Projects/blob/master/house-prices/analysis.ipynb)
 
 * I built and trained a regression model to predict the sale price (conitnuous value) of US homes based on many input features
 
@@ -10,7 +10,7 @@
 
 ___
 
-## 2) Predicting Movie Quality (IMDB-5000 Dataset)
+## 2) [Predicting Movie Quality (IMDB-5000 Dataset)](https://github.com/ricardomokhtari/Data-Science-Projects/blob/master/IMDB-5000/analysis.ipynb)
 
 * This is a classification task in which I built and trained a model to classify if a movie is terrible, bad, good or excellent based on many input features.
 
@@ -22,7 +22,7 @@ ___
 
 ___
 
-## 3) Mall Customer Clustering
+## 3) [Mall Customer Clustering](https://github.com/ricardomokhtari/Data-Science-Projects/blob/master/mall-customers/analysis.ipynb)
 
 * In this task, I wanted to find the best way to split up the shoppers at a mall into distinct groups, based on their age, income and spending behaviour
 
