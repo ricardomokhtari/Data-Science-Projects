@@ -12,7 +12,7 @@
 
 ___
 
-## [2) Predicting Movie Quality (IMDB-5000 Dataset)](https://github.com/ricardomokhtari/Data-Science-Projects/blob/master/IMDB-5000/analysis.ipynb)
+## [2) Predicting Movie Quality](https://github.com/ricardomokhtari/Data-Science-Projects/blob/master/IMDB-5000/analysis.ipynb)
 
 *Link to the data: [https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)*
 
