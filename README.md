@@ -1,7 +1,3 @@
-# Data-Science-Projects
-
-A collection of Kaggle datasets that I've analysed using different techniques. Each folder contains the dataset and an analysis.ipynb file which contains the analysis.
-
 ## 1) Predicting US House Prices
 
 * I built and trained a regression model to predict the sale price (conitnuous value) of US homes based on many input features
