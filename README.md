@@ -10,6 +10,8 @@ A collection of Kaggle datasets that I've analysed using different techniques. E
 
 * My model achieved an Root Mean Squared Error (RMSE) of 0.14, placing my predictions in the top half of all Kaggle submissions for this task
 
+<img src="https://github.com/ricardomokhtari/Data-Science-Projects/blob/master/images/house-prices.png" width="500">
+
 ___
 
 ## 2) Predicting Movie Quality (IMDB-5000 Dataset)
