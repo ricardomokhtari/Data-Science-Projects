@@ -10,7 +10,7 @@ A collection of Kaggle datasets that I've analysed using different techniques. E
 
 * My model achieved an Root Mean Squared Error (RMSE) of 0.14, placing my predictions in the top half of all Kaggle submissions for this task
 
-<img src="/images/house-prices.png" width="500">
+![](/images/house-prices.png)
 
 ___
 
@@ -22,7 +22,7 @@ ___
 
 * The best performaing model was the random forest regression model, with an average accuracy of 67%.
 
-<img src="/images/imdb-accuracy.png" width="500">
+![](/images/imdb-accuracy.png)
 
 ___
 
@@ -34,7 +34,6 @@ ___
 
 * This information could be used to understand the mall shoppers better and to drive research into what kind of offers each group would be most likely to engage with
 
-<img src="/images/k-means.png">
-
+![](/images/k-means.png)
 
 ___
