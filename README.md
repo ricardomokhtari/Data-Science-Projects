@@ -1,4 +1,4 @@
-## [1) Predicting US House Prices](https://github.com/ricardomokhtari/Data-Science-Projects/blob/master/house-prices/analysis.ipynb)
+## [1) Predicting US House Prices (in progress)](https://github.com/ricardomokhtari/Data-Science-Projects/blob/master/house-prices/analysis.ipynb)
 
 * I built and trained a regression model to predict the sale price (conitnuous value) of US homes based on many input features
 
