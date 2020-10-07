@@ -18,9 +18,9 @@ ___
 
 * This is a classification task in which I built and trained a model to classify if a movie is terrible, bad, good or excellent based on many input features.
 
-* I compared several classification models (Naive Bayes, K-nearest neighbours, support vector machine, random forest regression and neural network) and evaluated each via 10-fold cross validation.
+* I compared several classification models (Naive Bayes, K-Nearest Neighbours, Support Vector Machine, Random Forest and a Neural Network) and evaluated each via 10-fold cross validation, using accuracy as a metric.
 
-* The best performaing model was the random forest regression model, with an average accuracy of 67%.
+* The best performaing model was the Random Forest model, with an average accuracy of 67%.
 
 ![](/images/imdb-accuracy.png)
 
