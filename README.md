@@ -2,11 +2,13 @@
  
 *Link to the data: [https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)*
 
-* I built and trained a regression model to predict the sale price (conitnuous value) of US homes based on many input features
+* I built and trained a regression model to predict the sale price (conitnuous value) of US homes based on many input features. 
+
+* I carried out extensive data exploration and visualisation and I identified the 10 best predictors of sale price and paid special attention to these features for improved performance.
 
 * I compared several different regressors (SVR, Random Forest, DTR, XGBoost) and found that XGBoost achieved the best performance
 
-* My model achieved an Root Mean Squared Error (RMSE) of 0.14, placing my predictions in the top half of all Kaggle submissions for this task
+* My model achieved an Root Mean Squared Error (RMSE) of 0.13, placing my predictions in the top 46% of all Kaggle submissions for this task. I will continue to improve my solution over time and move up the leaderboard.
 
 ![](/images/house-prices.png)
 
