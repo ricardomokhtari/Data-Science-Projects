@@ -14,15 +14,15 @@
 
 ___
 
-## [2) Predicting Movie Quality](https://github.com/ricardomokhtari/Data-Science-Projects/blob/master/IMDB-5000/analysis.ipynb)
+## [2) Predicting Movie Quality (improvements in progress)](https://github.com/ricardomokhtari/Data-Science-Projects/blob/master/IMDB-5000/analysis.ipynb)
 
 *Link to the data: [https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)*
 
 * This is a classification task in which I built and trained a model to classify if a movie is terrible, bad, good or excellent based on many input features.
 
-* I compared several classification models (Naive Bayes, K-Nearest Neighbours, Support Vector Machine, Random Forest and a Neural Network) and evaluated each via 10-fold cross validation, using accuracy as a metric.
+* I compared several classification models (Naive Bayes, K-Nearest Neighbours, Support Vector Machine, Random Forest, XGBoost and a Neural Network) and evaluated each via 10-fold cross validation, using accuracy as a metric.
 
-* The best performaing model was the Random Forest model, with an average accuracy of 67%.
+* The best performaing model was the Random Forest model, with an average F1 score of 69%.
 
 ![](/images/imdb-accuracy.png)
 
