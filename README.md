@@ -8,7 +8,7 @@
 
 * I compared several different regressors (SVR, Random Forest, DTR, XGBoost) and found that XGBoost achieved the best performance
 
-* My model achieved an Root Mean Squared Error (RMSE) of 0.13, placing my predictions in the top 46% of all Kaggle submissions for this task. I will continue to improve my solution over time and move up the leaderboard.
+* My model achieved an Root Mean Squared Error (RMSE) of 0.13, placing my predictions in the top 39% of all Kaggle submissions for this task. I will continue to improve my solution over time and move up the leaderboard.
 
 ![](/images/house-prices.png)
 
