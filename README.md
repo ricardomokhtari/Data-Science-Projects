@@ -1,4 +1,4 @@
-## [1) Predicting US House Prices (in progress)](https://github.com/ricardomokhtari/Data-Science-Projects/blob/master/house-prices/analysis.ipynb)
+## [1) Predicting US House Prices](https://github.com/ricardomokhtari/Data-Science-Projects/blob/master/house-prices/analysis.ipynb)
  
 *Link to the data: [https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)*
 
